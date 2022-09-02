@@ -43,4 +43,4 @@ Your api link [https:<your_app_name>/graphql](https:<your_app_name>/graphql)</br
 
 ### This Project deployment can be completed from below app
 
-Available here: [https://github.com/Rohit-Salian/graphql-app] (https://github.com/Rohit-Salian/graphql-app)
+Available here: [https://github.com/Rohit-Salian/graphql-app](https://github.com/Rohit-Salian/graphql-app)
