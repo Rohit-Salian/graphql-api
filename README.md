@@ -11,7 +11,7 @@ Install the dependencies in the local node_modules folder
 ### `npm start`
 
 Runs the API and Introspect GraphQL Schema in GraphQL Playground.</br>
-Open [http://localhost:4000/grapql] to view it in the browser.</br>
+Open [`http://localhost:4000/grapql`] to view it in the browser.</br>
 
 ## `Creating GraphQL graph`
 
