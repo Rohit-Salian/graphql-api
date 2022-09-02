@@ -37,6 +37,6 @@ Go to Deploy and do a `Manual Deploy` this will run `npm start`</br>
 
 Your api link [https:<your_app_name>/graphql](https:<your_app_name>/graphql)</br>
 
-## Note: ### When Deployed or in Production GraphQL playground will be disabled for Security Concerns and only be accessed from Apollo Studio
+### Note: When Deployed or in Production GraphQL playground will be disabled for Security Concerns and only be accessed from Apollo Studio
 
-## Thats it you API is up and running..!
+### Thats it you API is up and running..!
