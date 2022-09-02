@@ -13,7 +13,7 @@ Install the dependencies in the local node_modules folder
 Runs the API and Introspect GraphQL Schema in GraphQL Playground.</br>
 Open [http://localhost:4000/graphql](http://localhost:4000/graphql) to view it in the browser.</br>
 
-## `Creating GraphQL graph`
+## Creating GraphQL graph
 
 Log into [https://studio.apollographql.com](https://studio.apollographql.com) and create a new graph with `Monolith Architecture`</br>
 
@@ -23,7 +23,7 @@ Go to Settings (`This Variant-> Explorer-> Add Endpoint` of deployed Heroku link
 
 GraphQL Playground can only be accessed from `Run in Explorer` button</br>
 
-## `Deploying GraphQL API on Heroku`
+## Deploying GraphQL API on Heroku
 
 Create a New App on Heroku with your Desired name and Region</br>
 
@@ -37,6 +37,6 @@ Go to Deploy and do a `Manual Deploy` this will run `npm start`</br>
 
 Your api link [https:<your_app_name>/graphql](https:<your_app_name>/graphql)</br>
 
-## Note: `When Deployed or in Production GraphQL playground will be disabled for Security Concerns and only be accessed from Apollo Studio`
+## Note: ### When Deployed or in Production GraphQL playground will be disabled for Security Concerns and only be accessed from Apollo Studio
 
 ## Thats it you API is up and running..!
